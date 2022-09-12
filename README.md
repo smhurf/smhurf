@@ -15,8 +15,10 @@ https://www.flaticon.com/free-icon/linkedin_665212?term=linkedin&page=1&position
 www.linkedin.com/in/shimei-he-58733741
 ### How to reach me
 -------------------------------------
+
+https://github.com/smhurf/smhurf/blob/70a055b79deccfc28e1a7f78d61f1bdad4592291/linkedin.png
 <a href="https://www.linkedin.com/in/shimei-he-58733741/">
-  <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+  <img align="left" src="https://raw.githubusercontent.com/smhurf/smhurf/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
  
 <a href="https://github.com/smhurf" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
