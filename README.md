@@ -21,7 +21,7 @@
   <img align="left" src="email.png" alt="Shimei | LinkedIn" width="21px"/></a>
  
 <a href="https://github.com/smhurf" rel="nofollow noreferrer">
-  <img src="https://i.stack.imgur.com/tskMh.png" alt="Shimei | Github" width="21px"/> 
+  <img src="github.png" alt="Shimei | Github" width="21px"/> 
 </a>
 
 <!--
