@@ -7,8 +7,7 @@
 🔭 I’m a geospatial professional currently working in the remote sensing industry  
 🌱 I’m currently learning Data Science  
 👯 I enjoy problem solving and automating as many simple tasks as possible  
-💬 Ask me about anything spatial  
-📫 How to reach me: shimei.he@protonmail.com  
+💬 Ask me about anything spatial   
 😄 Pronouns: She/Her  
 ⚡  Mostly working on python and jupyter notebook  
 
@@ -17,6 +16,9 @@
 
 <a href="https://www.linkedin.com/in/shimei-he-58733741/">
   <img align="left" src="linkedin.png" alt="Shimei | LinkedIn" width="21px"/></a>
+
+<a href="shimei.he@protonmail.com">
+  <img align="left" src="email.png" alt="Shimei | LinkedIn" width="21px"/></a>
  
 <a href="https://github.com/smhurf" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/tskMh.png" alt="Shimei | Github" width="21px"/> 
