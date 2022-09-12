@@ -1,7 +1,7 @@
 ### 👋 Hello I'm Shimei
 -------------------------------------
 <p >
-<img src="White Simple Nature Photo Motivational Quote Facebook Cover.png" alt="my banner" title="Optional title">
+<img src="aab2973109b05b02ea046b161d0c635b32889cd5972f918ac163e6348fbae209.0.png" alt="my banner" title="Optional title">
 </p>
 
 🔭 I’m a geospatial professional currently working in the remote sensing industry  
