@@ -1,16 +1,16 @@
 ### 👋 Hello I'm Shimei
 -------------------------------------
 
-<img src="White Simple Nature Photo Motivational Quote Facebook Cover.png" alt="Alt text" title="Optional title">
+<img width=”200" height=”100" src="White Simple Nature Photo Motivational Quote Facebook Cover.png" alt="my banner" title="Optional title">
 
 
-- 🔭 I’m a geospatial professional currently working in the remote sensing industry /n
-- 🌱 I’m currently learning Data Science
-- 👯 I enjoy problem solving and automating as many simple tasks as possible
-- 💬 Ask me about anything spatial
-📫 How to reach me: shimei.he@protonmail.com
-😄 Pronouns: She/Her
-⚡  Mostly working on python and jupyter notebook
+🔭 I’m a geospatial professional currently working in the remote sensing industry  
+🌱 I’m currently learning Data Science  
+👯 I enjoy problem solving and automating as many simple tasks as possible  
+💬 Ask me about anything spatial  
+📫 How to reach me: shimei.he@protonmail.com  
+😄 Pronouns: She/Her  
+⚡  Mostly working on python and jupyter notebook  
 
 ### How to reach me
 -------------------------------------
