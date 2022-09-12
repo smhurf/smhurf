@@ -4,8 +4,8 @@
 <img src="White Simple Nature Photo Motivational Quote Facebook Cover.png" alt="Alt text" title="Optional title">
 
 
-🔭 I’m a geospatial professional currently working in the remote sensing industry
-🌱 I’m currently learning Data Science
+- 🔭 I’m a geospatial professional currently working in the remote sensing industry
+- 🌱 I’m currently learning Data Science
 👯 I enjoy problem solving and automating as many simple tasks as possible
 💬 Ask me about anything spatial
 📫 How to reach me: shimei.he@protonmail.com
