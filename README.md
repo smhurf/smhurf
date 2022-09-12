@@ -4,10 +4,10 @@
 <img src="White Simple Nature Photo Motivational Quote Facebook Cover.png" alt="Alt text" title="Optional title">
 
 
-- 🔭 I’m a geospatial professional currently working in the remote sensing industry
+- 🔭 I’m a geospatial professional currently working in the remote sensing industry /n
 - 🌱 I’m currently learning Data Science
-👯 I enjoy problem solving and automating as many simple tasks as possible
-💬 Ask me about anything spatial
+- 👯 I enjoy problem solving and automating as many simple tasks as possible
+- 💬 Ask me about anything spatial
 📫 How to reach me: shimei.he@protonmail.com
 😄 Pronouns: She/Her
 ⚡  Mostly working on python and jupyter notebook
@@ -15,7 +15,7 @@
 ### How to reach me
 -------------------------------------
 <p>
-  <a href="www.linkedin.com/in/shimei-he-58733741" rel="nofollow noreferrer">
+  <a href="www.linkedin.com/in/shimei-he-58733741">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/smhurf" rel="nofollow noreferrer">
