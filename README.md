@@ -1,7 +1,7 @@
 ### 👋 Hello I'm Shimei
 -------------------------------------
 <p >
-<img src="aab2973109b05b02ea046b161d0c635b32889cd5972f918ac163e6348fbae209.0.png" alt="my banner" title="Optional title">
+<img src="892d48c524f379e662dd2fd3591ea626bee04ec4dba525b14a1ab2207a4efa8d.0.png" alt="my banner" title="Optional title">
 </p>
 
 🔭 I’m a geospatial professional currently working in the remote sensing industry  
