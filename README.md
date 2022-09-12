@@ -1,4 +1,18 @@
-### Hi there 👋
+### 👋 Hello I'm Shimei
+-------------------------------------
+
+
+
+- 🔭 I’m currently a geospatial professional working in the remote sensing industry
+- 🌱 I’m currently learning Data Science
+- 👯 I enjoy problem solving and automating as many simple tasks as possible
+- 💬 Ask me about anything spatial
+- 📫 How to reach me: shimei.he@protonmail.com
+- 😄 Pronouns: She/Her
+
+
+
+
 
 <!--
 **smhurf/smhurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
