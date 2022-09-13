@@ -9,7 +9,7 @@ ask me about anything spatial~
 
 outside work i enjoy:  
 :climbing_woman: climbing  
-:books:reading  
+:books: reading  
 :notes: music/arts/cultural events
 
 #### How to reach me
