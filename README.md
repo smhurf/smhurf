@@ -5,7 +5,7 @@ i’m a geospatial analyst
 passionate about solving problems using geospatial analysis and building geo web applications across the stack  
 ask me about anything spatial~  
 🌱 currently learning data science   
-🤔 keen to explore analysis outside geo
+🤔 keen to explore interesting analysis within geo and new analysis outside geo
 
 outside work i enjoy:  
 :climbing_woman: climbing  
